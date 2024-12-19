@@ -102,7 +102,7 @@ ADDED
 `astatus`
 `#`
 `fd`
-`owner`
+`owner`03196903370
 `play`
 `mee`
 `mforward`
